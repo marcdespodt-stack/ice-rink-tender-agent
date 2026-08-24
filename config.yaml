@@ -1,0 +1,90 @@
+company:
+  name: "YOUR ICE RINK COMPANY"
+
+  countries_served:
+    - worldwide
+
+  minimum_project_value_eur: 25000
+
+  preferred_business_models:
+    - purchase
+    - rental
+    - lease
+
+  products:
+    - mobile real-ice skating rink
+    - temporary outdoor ice rink
+    - portable ice rink
+    - ice refrigeration system
+    - ice resurfacing machine
+    - ice groomer
+    - Rolba
+    - rink boards
+    - skates
+    - skating aids
+
+search:
+  languages:
+    - English
+    - Spanish
+    - French
+    - German
+    - Italian
+    - Portuguese
+    - Dutch
+    - Polish
+    - Hungarian
+    - Czech
+    - Slovak
+    - Romanian
+    - Arabic
+
+  regions:
+    - Europe
+    - North America
+    - Latin America
+    - Middle East
+    - Africa
+    - Asia
+    - Oceania
+
+  cpv_codes:
+    - "37411200"
+    - "37481000"
+
+  keywords:
+    - "mobile ice rink"
+    - "temporary ice rink"
+    - "portable ice skating rink"
+    - "outdoor ice rink"
+    - "ice skating rink"
+    - "mobile skating rink"
+    - "ice rink purchase"
+    - "ice rink rental"
+    - "ice rink lease"
+    - "ice refrigeration"
+    - "ice rink refrigeration system"
+    - "ice resurfacing machine"
+    - "ice resurfacer"
+    - "ice groomer"
+    - "Rolba"
+
+scoring:
+  high_threshold: 75
+  medium_threshold: 55
+
+  positive_signals:
+    - mobile ice rink
+    - temporary ice rink
+    - outdoor ice rink
+    - ice refrigeration
+    - ice resurfacing machine
+    - ice groomer
+    - Rolba
+    - CPV 37411200
+    - CPV 37481000
+
+  negative_signals:
+    - synthetic ice only
+    - plastic ice only
+    - indoor permanent ice arena construction
